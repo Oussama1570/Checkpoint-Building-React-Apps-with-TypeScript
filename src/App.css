@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+
+.App {background-image: url(https://img.freepik.com/free-vector/white-abstract-background_23-2148817571.jpg?w=900&t=st=1717769771~exp=1717770371~hmac=764ff98afd75eb53771945761ae3b5efda4085452cc19601f361144017512499);
+ background-size: cover; 
+height: 750px;
+padding-top: 2%;}
